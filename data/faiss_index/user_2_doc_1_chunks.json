@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "content": "Manvi Pant\n+91 8218952332 | manvi2000p@gmail.com | linkedin.com/in/manvi-pant-04/ | github.com/manvi-pant04\nProfessional Summary\nFront-end developer with 3 years of experience specializing in React.js and Azure-based applications. Experienced\nin modernizing legacy systems and building user-friendly scalable web interfaces. Proven track record of\nend-to-end migration projects and cloud-based integrations using Azure Function Apps. Passionate about crafting",
+    "source": "b1af01dc-dda2-44b0-98bc-18d4febdee35_Manvi_Pant_Resume_2025.pdf",
+    "page": 1,
+    "doc_id": 1,
+    "user_id": 2
+  },
+  {
+    "id": 2,
+    "content": "clean, maintainable code and delivering impactful user experiences.\nEducation\nBanasthali Vidyapith University, Bachelor of Technology in Computer Science\n2018 – May 2022\n• CGPA: 7.51/10.00\nExperience\nSoftware Developer, Optum(UnitedHealth group) – Bangalore, India\nMay 2022 – Present\n• Spearheaded the migration of a legacy application into a modern front-end architecture,from scratch, ensuring\nmaintainability and performance optimization.",
+    "source": "b1af01dc-dda2-44b0-98bc-18d4febdee35_Manvi_Pant_Resume_2025.pdf",
+    "page": 0,
+    "doc_id": 1,
+    "user_id": 2
+  },
+  {
+    "id": 4,
+    "content": "maintainability and performance optimization.\n• Initially involved in migration using Spring Boot and angular, later transitioned to react js due to project scope\nchanges\n• Developed responsive, component-based UIs using React.js, Hooks, and Context API, aligned with design system\nstandards.\n• Integrated Azure Function Apps for handling backend logic in a serverless environment and utilized Azure\nDatabricks.",
+    "source": "b1af01dc-dda2-44b0-98bc-18d4febdee35_Manvi_Pant_Resume_2025.pdf",
+    "page": 0,
+    "doc_id": 1,
+    "user_id": 2
+  },
+  {
+    "id": 6,
+    "content": "Databricks.\n• Ensured state management and API integration using Axios, enabling real-time data rendering and smooth user\ninteraction.\n• Collaborated across cross-functional teams to ensure seamless deployment and testing of modules.\n• Actively involved in bug tracking and resolution, optimizing front-end load times, and improving accessibility\ncompliance.\n• Handled the quality assurance and testing of the modules, including writing test cases and validating the\nconsistency of the UI.\nProjects",
+    "source": "b1af01dc-dda2-44b0-98bc-18d4febdee35_Manvi_Pant_Resume_2025.pdf",
+    "page": 0,
+    "doc_id": 1,
+    "user_id": 2
+  },
+  {
+    "id": 8,
+    "content": "consistency of the UI.\nProjects\nAI-Powered Financial Dashboard\nOngoing\n• Tech Stack: React.js, Node.js, REST APIs\n• Building a personal finance dashboard to visualize transactions, monitor spending, and deliver intelligent\ninsights.\n• Implementing modular UI components and interactive charts to enhance user engagement.\n• Emphasis on clean design, real-time responsiveness, and extensibility for future features like goal tracking and\nsavings projections.\nTechnical Skills",
+    "source": "b1af01dc-dda2-44b0-98bc-18d4febdee35_Manvi_Pant_Resume_2025.pdf",
+    "page": 0,
+    "doc_id": 1,
+    "user_id": 2
+  },
+  {
+    "id": 10,
+    "content": "savings projections.\nTechnical Skills\nLanguages: JavaScript, CSS3, SQL, Java, C, C++\nCloud Tools: Azure App Service, Azure Function Apps, Azure Databricks\nDatabase: Azure Cosmos DB, MySQL, Snowflake\nOther: REST APIs, Agile Methodologies, Rally, Manual Testing, Test Case Design, Debugging",
+    "source": "b1af01dc-dda2-44b0-98bc-18d4febdee35_Manvi_Pant_Resume_2025.pdf",
+    "page": 0,
+    "doc_id": 1,
+    "user_id": 2
+  }
+]
